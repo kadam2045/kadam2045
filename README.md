@@ -1,6 +1,6 @@
 # Hi, I'm Shubham Kadam
 
-A  Full Stack developer from India, based in Mumbai. I regulary write articles on medium.
+A  Full Stack developer from India, based in Mumbai. 
 
 ## About Me
 
@@ -29,9 +29,7 @@ A  Full Stack developer from India, based in Mumbai. I regulary write articles o
 
 > 🏆 2 Contributions in the Year 2024
  > 
-> 📦 99.6 kB Used in GitHub's Storage 
- > 
-> ⬆️ Opted to Hire
+> 📦 99.6 kB Used in GitHub's Storage  
  > 
 > 📜 4 Public Repositories 
  > 
