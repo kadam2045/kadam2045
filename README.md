@@ -46,7 +46,3 @@ A  Full Stack developer from India, based in Mumbai.
   </blockquote>
 </div>
 
-
- Last Updated on 27/09/2024
-
-add animationa and effect here make this very attarctive
