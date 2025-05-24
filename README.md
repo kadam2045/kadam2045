@@ -46,65 +46,6 @@ A  Full Stack developer from India, based in Mumbai.
   </blockquote>
 </div>
 
-**🐱 My GitHub Data** 
-
-> 🏆 2 Contributions in the Year 2024
- > 
-> 📦 99.6 kB Used in GitHub's Storage  
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning          ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-🌆 Daytime          █████████████░░░░░░░░░░░░   53.85% 
-🌃 Evening          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-🌙 Night            █████████░░░░░░░░░░░░░░░░   38.46% 
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Wednesday    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Thursday     6 commits      █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Friday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Saturday     9 commits      ████████░░░░░░░░░░░░░░░░░   34.62% 
-Sunday       3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Javascript               0 secs           ███████████████████████░░   93.53% 
-python                   0 secs           █████████░░░░░░░░░░░░░░░░   38.46%                  
-Docker                   0 secs           ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
-
-🔥 Editors: 
-VSCODE                  0 secs            █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      0 secs            █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Javascript** 
-
-```text
-React                   8 repos              ██████████████░░░░░░░░░░░   57.14% 
-Nodejs                  3 repos           █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-
-
-```
-
-
 
  Last Updated on 27/09/2024
 
